@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+/* Landing Page section*/
+
+.landing-background{
+  background: #ADA996;
+  background: -webkit-linear-gradient(to bottom, #EAEAEA, #DBDBDB, #F2F2F2, #ADA996); 
+  background: linear-gradient(to bottom, #EAEAEA, #DBDBDB, #F2F2F2, #ADA996);  
+}
+
+
+.lead {
+  display: flex;
+  justify-content: space-evenly;
+  width: 50%;
+  margin: 1em auto;
+};
+
+
