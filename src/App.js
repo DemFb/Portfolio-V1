@@ -13,7 +13,7 @@ function App() {
       <Main/>
       <LandingPage/>
       <Project id='projets'/>
-      <About id='contact'/>
+      <About id='presentation'/>
       <FooterPage/>
     </div>
   );
