@@ -10,8 +10,8 @@ const About = () => {
         <div style={{paddingBottom: '4em', background: '#ADA996', 
         background: '-webkit-linear-gradient(to bottom, #EAEAEA, #DBDBDB, #F2F2F2, #ADA996)',
         background: 'linear-gradient(to bottom, #EAEAEA, #DBDBDB, #F2F2F2, #ADA996)',
-        }} id='contact'>
-            <h2 style={{textTransform: 'uppercase', fontWeight:'900', paddingTop:'1em'}}>À propos</h2>
+        }} id='presentation'>
+            <h2 style={{textTransform: 'uppercase', fontWeight:'900', paddingTop:'1em'}}>Présentation</h2>
             <hr style={{  borderTop:'5px inset gray',width: '25%', margin: 'auto'}} />
 
             <div style={{display:'flex',}}>
